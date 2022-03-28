@@ -143,3 +143,4 @@ JOIN PortfolioProject..[Covid Vaccinations] vac
 	AND dea.date = vac.date
 WHERE dea.continent is not null
 
+Select * From PercentPopnVaccn
